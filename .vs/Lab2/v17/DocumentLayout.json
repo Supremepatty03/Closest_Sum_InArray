@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\arraycheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\arraycheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\arraycheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58BC8833-B0F2-424C-9E6C-659D9480D282}|TestProject1\\TestProject1.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BC8833-B0F2-424C-9E6C-659D9480D282}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BC8833-B0F2-424C-9E6C-659D9480D282}|TestProject1\\TestProject1.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BC8833-B0F2-424C-9E6C-659D9480D282}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\funtionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\funtionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\funtionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\user\\source\\repos\\closest_sum_inarray\\lab2\\additionalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|c:\\users\\\u0432\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\closest_sum_inarray\\lab2\\additionalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EBDCB77-974F-42F4-A7DB-356D2DB246D7}|Lab2\\Lab2.csproj|solutionrelative:lab2\\additionalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,95 +57,118 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\Program.cs",
-              "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:21:04.943Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileWriter.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileWriter.cs",
-              "RelativeDocumentMoniker": "Lab2\\FileWriter.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileWriter.cs",
-              "RelativeToolTip": "Lab2\\FileWriter.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAqwK0AAAAJAAAAAAAAAA==",
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T21:28:22.87Z",
+              "WhenOpened": "2025-03-12T21:38:59.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdditionalInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\AdditionalInfo.cs",
-              "RelativeDocumentMoniker": "Lab2\\AdditionalInfo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\AdditionalInfo.cs",
-              "RelativeToolTip": "Lab2\\AdditionalInfo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:25:48.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T21:38:22.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:21:04.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Lab2\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileWriter.cs",
+              "RelativeToolTip": "Lab2\\FileWriter.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAqwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:28:22.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdditionalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\AdditionalInfo.cs",
+              "RelativeDocumentMoniker": "Lab2\\AdditionalInfo.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\AdditionalInfo.cs",
+              "RelativeToolTip": "Lab2\\AdditionalInfo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:25:48.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ArrayCheker.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\ArrayCheker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\ArrayCheker.cs",
               "RelativeDocumentMoniker": "Lab2\\ArrayCheker.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\ArrayCheker.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\ArrayCheker.cs",
               "RelativeToolTip": "Lab2\\ArrayCheker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwC8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T11:22:29.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FileReader.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileReader.cs",
               "RelativeDocumentMoniker": "Lab2\\FileReader.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileReader.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\FileReader.cs",
               "RelativeToolTip": "Lab2\\FileReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T21:28:08.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T21:28:08.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "InputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\InputHandler.cs",
               "RelativeDocumentMoniker": "Lab2\\InputHandler.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\InputHandler.cs",
               "RelativeToolTip": "Lab2\\InputHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:26:45.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T11:26:45.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Funtionality.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\Funtionality.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\Funtionality.cs",
               "RelativeDocumentMoniker": "Lab2\\Funtionality.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\Lab2\\Funtionality.cs",
+              "ToolTip": "C:\\Users\\\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\\source\\repos\\Closest_Sum_InArray\\Lab2\\Funtionality.cs",
               "RelativeToolTip": "Lab2\\Funtionality.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAowAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:25:02.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T11:25:02.864Z"
             }
           ]
         }
