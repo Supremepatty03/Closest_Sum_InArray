@@ -10,6 +10,11 @@ namespace Lab2
         FROM_KEYBOARD = 1,
         FROM_FILE = 2
     }
+    enum AlgoChoice
+    {
+        ACCURATE = 1,
+        FAST = 2
+    }
     internal class Program
     {
         static void Main()
@@ -40,7 +45,16 @@ namespace Lab2
                     Console.WriteLine("Целевое число: " + target);
                 }
 
-                Tuple <int , List<int>> pair = ArrayCheker.FindClosestSubset(Array, target);
+                AdditionalInfo.AlgorithmChoice();
+                int AlgChoice = Functionality.ApplyingInputChoice();
+                Tuple<int, List<int>> pair;
+
+                if (AlgChoice == (int)AlgoChoice.ACCURATE)
+                {
+                    pair = ArrayCheker.FindClosestSubsetBruteForce(Array, target);
+                }
+                else { pair = ArrayCheker.FindClosestSubset(Array, target); }
+
                 Console.WriteLine($"Сумма: {pair.Item1}");
                 Console.WriteLine("Подмассив: " + string.Join(", ", pair.Item2));
 
@@ -52,5 +66,4 @@ namespace Lab2
             AdditionalInfo.Farewell();
         }
     }
-
 }

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHLdrAxpecY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\TestProject3\\TestProject3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "MSTest"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.Playwright.MSTest"
+    }
+  ]
+}

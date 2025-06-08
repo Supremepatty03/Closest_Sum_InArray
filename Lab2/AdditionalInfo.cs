@@ -41,6 +41,12 @@ namespace Lab2
             Console.WriteLine(" «2» - Добавить данные в конец файла");
             Console.WriteLine(" «3» - Отмена");
         }
+        public static void AlgorithmChoice()
+        {
+            Console.WriteLine("Какой алгоритм использовать?");
+            Console.WriteLine(" «1» - 100% точность, высокая нагрузка при больших объемах");
+            Console.WriteLine(" «2» - Быстрый алгоритм с возможными неточностами при больших массивах");
+        }
         public static void Farewell()
         {
             Console.WriteLine(" Завершение работы");

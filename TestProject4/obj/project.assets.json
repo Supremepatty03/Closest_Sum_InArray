@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MSTest.TestAdapter >= 3.6.4",
+      "MSTest.TestFramework >= 3.6.4",
+      "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "Microsoft.Testing.Extensions.CodeCoverage >= 17.12.6",
+      "Microsoft.Testing.Extensions.TrxReport >= 1.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "D:\\ms vs x86\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Closest_Sum_InArray\\TestProject4\\TestProject4.csproj",
+      "projectName": "TestProject4",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Closest_Sum_InArray\\TestProject4\\TestProject4.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Closest_Sum_InArray\\TestProject4\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\ms vs x86\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\User\\Source\\Repos\\Closest_Sum_InArray\\Lab2\\Lab2.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\Closest_Sum_InArray\\Lab2\\Lab2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "MSTest.TestAdapter": {
+            "target": "Package",
+            "version": "[3.6.4, )"
+          },
+          "MSTest.TestFramework": {
+            "target": "Package",
+            "version": "[3.6.4, )"
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[17.12.0, )"
+          },
+          "Microsoft.Testing.Extensions.CodeCoverage": {
+            "target": "Package",
+            "version": "[17.12.6, )"
+          },
+          "Microsoft.Testing.Extensions.TrxReport": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.Testing.Extensions.TrxReport"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.Testing.Extensions.CodeCoverage"
+    }
+  ]
+}

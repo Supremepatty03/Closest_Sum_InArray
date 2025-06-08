@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVOEIpifSEk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Closest_Sum_InArray\\TestProject2\\TestProject2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "MSTest.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.Testing.Extensions.TrxReport"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\" не существует.",
+      "libraryId": "Microsoft.Testing.Extensions.CodeCoverage"
+    }
+  ]
+}
